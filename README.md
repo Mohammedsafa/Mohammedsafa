@@ -36,8 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en&theme=dark" alt="Mohammedsafa" /></p>
 
-<p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=dark" alt="Mohammedsafa" /></a> </p>
-
-<p align="left"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mohammedsafa&theme=dark" alt="GitHub Streak" /></a> </p>
+<p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=onedark" alt="Mohammedsafa" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammedsafa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammedsafa" /> </p>
