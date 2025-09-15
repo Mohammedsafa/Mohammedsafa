@@ -32,11 +32,11 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact" alt="Mohammedsafa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohammedsafa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en" alt="Mohammedsafa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en&theme=dark" alt="Mohammedsafa" /></p>
 
-<p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa" alt="Mohammedsafa" /></a> </p>
+<p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=dark" alt="Mohammedsafa" /></a> </p>
 
 <p align="left"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mohammedsafa&theme=dark" alt="GitHub Streak" /></a> </p>
 
