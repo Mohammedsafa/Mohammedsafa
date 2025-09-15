@@ -4,7 +4,7 @@
 - 📫 How to reach me **mohammedsafa055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-##
+<div style="border-top: 1px solid #30363d; margin-top: 16px;"></div>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-safa-058408242/">
@@ -12,7 +12,7 @@
   </a>
 </p>
 <h3 align="left">My Alchemical Toolkit:</h3>
-##
+<div style="border-top: 1px solid #30363d; margin-top: 16px;"></div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HuggingFace-F0C60C?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Chronicle of My Conquests:</h3>
-##
+<div style="border-top: 1px solid #30363d; margin-top: 16px;"></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohammedsafa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en&theme=dark" alt="Mohammedsafa" /></p>
