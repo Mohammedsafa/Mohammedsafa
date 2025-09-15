@@ -16,6 +16,9 @@
 
 <h3 align="left">My Alchemical Toolkit:</h3>
 <p align="left">
+  <img src="https://img.shields.io/badge/HuggingFace-F0C60C?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
@@ -36,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en" alt="Mohammedsafa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedsafa&" alt="Mohammedsafa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedsafa" alt="Mohammedsafa" /></p>
