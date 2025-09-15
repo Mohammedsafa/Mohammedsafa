@@ -3,13 +3,15 @@
 
 - 📫 How to reach me **mohammedsafa055@gmail.com**
 
-## <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
+## 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-safa-058408242/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-## <h3 align="left">My Alchemical Toolkit:</h3>
+<h3 align="left">My Alchemical Toolkit:</h3>
+##
 <p align="left">
   <img src="https://img.shields.io/badge/HuggingFace-F0C60C?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
   <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
@@ -30,7 +32,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
-## <h3 align="left">Chronicle of My Conquests:</h3>
+<h3 align="left">Chronicle of My Conquests:</h3>
+##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohammedsafa" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en&theme=dark" alt="Mohammedsafa" /></p>
 <p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=tokyonight" alt="Mohammedsafa" /></a> </p>
