@@ -1,9 +1,6 @@
 <h1 align="center">Greetings, Digital Visionaries! 🌐 I'm Mohammed Sherif Safa. 🧬✨</h1>
 <h3 align="center">Driven by the belief that data holds the key to a smarter future. I use the power of machine learning and bioinformatics to tackle complex challenges and create meaningful impact. My mission is to transform ideas into reality through code and analytics, pushing the boundaries of what's possible.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammedsafa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammedsafa" /> </p>
-
-<p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa" alt="Mohammedsafa" /></a> </p>
 
 - 📫 How to reach me **mohammedsafa055@gmail.com**
 
@@ -39,4 +36,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en" alt="Mohammedsafa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedsafa" alt="Mohammedsafa" /></p>
+<p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa" alt="Mohammedsafa" /></a> </p>
+
+<p align="left"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mohammedsafa&theme=dark" alt="GitHub Streak" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammedsafa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammedsafa" /> </p>
