@@ -3,8 +3,8 @@
 
 - 📫 How to reach me **mohammedsafa055@gmail.com**
 
-<h3 align="left">Connect with me:</h3>##
-
+<h3 align="left">Connect with me:</h3>
+<p align="center"> <img src="https://raw.githubusercontent.com/MicaelliCode/MicaelliCode/main/assets/divisao.gif" alt="Faint divider line"> </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammed-safa-058408242/">
