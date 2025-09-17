@@ -43,7 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" style="width: 45%; max-width: 400px;">
 
   <!-- GitHub Stats Card with Grade Style -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammedsafa&theme=github_dark&rank_icon=percentile&t=1">
+   <img src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
 
 
 </div>
