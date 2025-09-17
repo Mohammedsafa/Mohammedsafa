@@ -44,6 +44,15 @@
 
 <p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=tokyonight" alt="Mohammedsafa" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammedsafa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammedsafa" /> </p>
