@@ -37,18 +37,7 @@
 
 ## Chronicle of My Conquests:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohammedsafa's Most Used Languages" />
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en&theme=dark" alt="Mohammedsafa's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedsafa&theme=dark" alt="Mohammedsafa's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohammedsafa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammedsafa's Profile Views" />
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Mohammedsafa&label=Followers&color=0e75b6&style=flat" alt="Mohammedsafa's Followers" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohammedsafa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en&theme=dark" alt="Mohammedsafa" /></p>
+<p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=tokyonight" alt="Mohammedsafa" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammedsafa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammedsafa" /> </p>
