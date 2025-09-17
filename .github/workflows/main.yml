@@ -1,9 +1,9 @@
-name: Pac-Man Contribution Graph
+name: Generate Pac-Man Game
 
 on:
   schedule:
-    # Runs at 12 AM UTC every day
-    - cron: '0 0 * * *'
+    # Runs at 1 AM UTC every day
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
-
+        uses: actions/checkout@v4
+      
       - name: Generate Pac-Man contribution graph
-        uses: Rudracodes/pacman-github-contribution@main
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           output_branch: 'output'
