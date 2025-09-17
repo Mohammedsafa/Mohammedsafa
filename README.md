@@ -2,13 +2,19 @@
 
 💡 Driven by the belief that data holds the key to a smarter future. I use the power of machine learning and bioinformatics to tackle complex challenges and create meaningful impact. My mission is to transform ideas into reality through code and analytics, pushing the boundaries of what's possible.
 
-- 📫 How to reach me **mohammedsafa055@gmail.com**
+
 
 ## Connect with me:
 
 <p align="left">
+  <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/mohammed-safa-058408242/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- Gmail Badge (Clickable) -->
+  <a href="mailto:mohammedsafa055@outlook.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </p>
 
