@@ -38,6 +38,20 @@
 ## Chronicle of My Conquests:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohammedsafa" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en&theme=dark" alt="Mohammedsafa" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en&theme=dark" alt="Your GitHub Stats" />
+</p>
+
 <p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=tokyonight" alt="Mohammedsafa" /></a> </p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohammedsafa&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammedsafa" /> </p>
