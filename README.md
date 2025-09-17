@@ -37,10 +37,16 @@
 
 ## Chronicle of My Conquests:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohammedsafa" /></p>
-<p align="right">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammedsafa&theme=github_dark" alt="GitHub Stats"/>
-</p>
+<div align="center">
+
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" style="width: 45%; max-width: 400px;">
+
+  <!-- GitHub Stats Card with Grade Style -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammedsafa&theme=github_dark" alt="GitHub Stats" style="width: 45%; max-width: 400px;">
+
+</div>
+
 
 <p align="left"> <a href="https://github.com/Mohammedsafa"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=tokyonight" alt="Mohammedsafa" /></a> </p>
 
