@@ -38,7 +38,7 @@
 ## Chronicle of My Conquests:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammedsafa&layout=compact&theme=dark" alt="Mohammedsafa's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="Mohammedsafa's Most Used Languages" />
   &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&locale=en&theme=dark" alt="Mohammedsafa's GitHub Stats" />
 </p>
