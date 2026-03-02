@@ -45,13 +45,18 @@
   </a>
 </p>
 
-### 🕹️ Contribution Activity:
+## 🏆 Chronicle of My Conquests:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph.svg">
-</picture>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/Mohammedsafa">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=tokyonight" alt="trophy" />
+  </a>
+</p>
 
 ---
 
