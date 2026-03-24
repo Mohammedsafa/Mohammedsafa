@@ -32,18 +32,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## 🏆 Chronicle of My Conquests:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/Mohammedsafa">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=tokyonight" alt="trophy" />
-  </a>
-</p>
 
 ## 🏆 Chronicle of My Conquests:
 
