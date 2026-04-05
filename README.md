@@ -37,16 +37,14 @@
 ## 🏆 Chronicle of My Conquests:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub-Stats-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="stats" />
-  <img src="https://img.shields.io/badge/Top-Languages-06b6d4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="top languages" />
-  <img src="https://img.shields.io/badge/Trophy-Collection-f59e0b?style=for-the-badge&logo=hackthebox&logoColor=white" alt="trophy" />
+  <img src="https://img.shields.io/badge/Stats-Commits%20%26%20Contributions-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="stats graph" />
+  <img src="https://img.shields.io/badge/Top%20Languages-Code%20Distribution-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="languages graph" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/Mohammedsafa?style=for-the-badge&logo=github&color=ec4899" alt="followers" />
-  <img src="https://img.shields.io/badge/Core-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Data-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/AI-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
+  <a href="https://github.com/Mohammedsafa">
+    <img src="https://img.shields.io/badge/Trophy-Achievements%20Unlocked-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="trophy" />
+  </a>
 </p>
 
 ---
