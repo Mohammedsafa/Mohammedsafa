@@ -37,12 +37,16 @@
 ## 🏆 Chronicle of My Conquests:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/GitHub%20Stats-Available-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="stats graph" />
-  <img src="https://img.shields.io/badge/Top%20Languages-Profile%20Overview-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="languages graph" />
+  <img src="https://img.shields.io/github/followers/Mohammedsafa?style=for-the-badge&logo=github&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Mohammedsafa/Mohammedsafa?style=for-the-badge&logo=github&label=Stars" alt="stars" />
+  <img src="https://img.shields.io/github/last-commit/Mohammedsafa/Mohammedsafa?style=for-the-badge&logo=git&label=Last%20Commit" alt="last commit" />
+  <img src="https://img.shields.io/github/commit-activity/m/Mohammedsafa/Mohammedsafa?style=for-the-badge&logo=github&label=Commits%2FMonth" alt="commit activity" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Trophy-GitHub%20Achievements-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="trophy" />
+  <img src="https://img.shields.io/github/repo-size/Mohammedsafa/Mohammedsafa?style=for-the-badge&logo=github&label=Profile%20Repo%20Size" alt="repo size" />
+  <img src="https://img.shields.io/github/languages/count/Mohammedsafa/Mohammedsafa?style=for-the-badge&logo=github&label=Languages%20Count" alt="languages count" />
+  <img src="https://img.shields.io/github/languages/top/Mohammedsafa/Mohammedsafa?style=for-the-badge&logo=github&label=Top%20Language" alt="top language" />
 </p>
 
 ---
