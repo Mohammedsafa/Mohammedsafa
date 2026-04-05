@@ -37,14 +37,12 @@
 ## 🏆 Chronicle of My Conquests:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Stats-Commits%20%26%20Contributions-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="stats graph" />
-  <img src="https://img.shields.io/badge/Top%20Languages-Code%20Distribution-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="languages graph" />
+  <img src="https://img.shields.io/badge/GitHub%20Stats-Available-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="stats graph" />
+  <img src="https://img.shields.io/badge/Top%20Languages-Profile%20Overview-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="languages graph" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/Mohammedsafa">
-    <img src="https://img.shields.io/badge/Trophy-Achievements%20Unlocked-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="trophy" />
-  </a>
+  <img src="https://img.shields.io/badge/Trophy-GitHub%20Achievements-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="trophy" />
 </p>
 
 ---
