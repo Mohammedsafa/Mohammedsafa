@@ -33,24 +33,20 @@
 </p>
 
 
+
 ## 🏆 Chronicle of My Conquests:
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/Mohammedsafa?style=for-the-badge&logo=github&color=8b5cf6" alt="followers" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-22c55e?style=for-the-badge&logo=github" alt="open source lover" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-06b6d4?style=for-the-badge" alt="focus full stack" />
-  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-f59e0b?style=for-the-badge" alt="status" />
+  <img src="https://img.shields.io/badge/GitHub-Stats-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="stats" />
+  <img src="https://img.shields.io/badge/Top-Languages-06b6d4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="top languages" />
+  <img src="https://img.shields.io/badge/Trophy-Collection-f59e0b?style=for-the-badge&logo=hackthebox&logoColor=white" alt="trophy" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/github/followers/Mohammedsafa?style=for-the-badge&logo=github&color=ec4899" alt="followers" />
+  <img src="https://img.shields.io/badge/Core-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Data-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/AI-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
 </p>
 
 ---
