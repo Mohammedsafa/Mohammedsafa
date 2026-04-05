@@ -36,14 +36,21 @@
 ## 🏆 Chronicle of My Conquests:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedsafa&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://img.shields.io/github/followers/Mohammedsafa?style=for-the-badge&logo=github&color=8b5cf6" alt="followers" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-22c55e?style=for-the-badge&logo=github" alt="open source lover" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-06b6d4?style=for-the-badge" alt="focus full stack" />
+  <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-f59e0b?style=for-the-badge" alt="status" />
 </p>
 
 <p align="left">
-  <a href="https://github.com/Mohammedsafa">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohammedsafa&theme=tokyonight" alt="trophy" />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
