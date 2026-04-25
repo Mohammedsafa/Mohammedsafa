@@ -45,6 +45,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedsafa&theme=react-dark" />
 </p>
 
+<h3 align="center">🎮 Eating My Contributions</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohammedsafa/Mohammedsafa/output/pacman-contribution-graph.svg" />
+</p>
+
 ---
 
 <p align="left"> 
