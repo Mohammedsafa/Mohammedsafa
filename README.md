@@ -37,11 +37,12 @@
 ## 🏆 Chronicle of My Conquests:
 
 <p align="left">
-  <img src="https://img.shields.io/github/commit-activity/m/Mohammedsafa/Mohammedsafa?style=for-the-badge&logo=github&label=Commits%2FMonth" alt="commit activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammedsafa&show_icons=true&theme=radical" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Mohammedsafa&theme=radical" height="150" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/last-commit/Mohammedsafa/Mohammedsafa?style=for-the-badge&logo=git&label=Last%20Commit" alt="last commit" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammedsafa&theme=react-dark" />
 </p>
 
 ---
