@@ -83,8 +83,8 @@
 ## 🏆 Chronicle of My Conquests:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammedsafa&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com?user=Mohammedsafa&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammedsafa&show_icons=true&theme=radical" height="160" style="display:inline-block;"/>
+  <img src="https://streak-stats.demolab.com?user=Mohammedsafa&theme=radical&hide_border=true" height="160" style="display:inline-block;"/>
 </p>
 
 <p align="center">
