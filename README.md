@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge">
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white">
 </p>
 
 <h3>🗄️ Databases</h3>
@@ -75,7 +76,6 @@
   <img src="https://img.shields.io/badge/Docker_Compose-1488C6?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white">
 </p>
 
 
