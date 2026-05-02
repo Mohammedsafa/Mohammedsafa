@@ -24,23 +24,58 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-F0C60C?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Prophet-2C3E50?style=for-the-badge">
 </p>
 
-<h3>📊 Data</h3>
+<h3>🤖 NLP</h3>
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-F0C60C?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge">
+</p>
+
+<h3>👁️ Computer Vision</h3>
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge">
+</p>
+
+<h3>📊 Data & Analytics</h3>
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge">
 </p>
 
-<h3>⚙️ Tools</h3>
+<h3>🗄️ Databases</h3>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge">
+</p>
+
+<h3>⚙️ Backend & Apps</h3>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white">
+</p>
+
+<h3>🛠️ DevOps & Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker_Compose-1488C6?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white">
 </p>
 
 
